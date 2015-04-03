@@ -1,8 +1,18 @@
-# Vision
+## Executive Summary
++ Build-Measure-Learn feedback loop
++ **Articulate** a new way for startup to **gauge** if they are making progress
++ market leadership
++ holde people accountable for learning
++ keep team nimble as it grows
++ disruptive innovation
++ single-piece flow (the benefits of small batch)
+  + Biggest advantage: ID quality problem much sooner
 
-# Steer
+## Vision
 
-# Accelerate
+## Steer
+
+## Accelerate
 
 ## Triage
 
@@ -24,3 +34,12 @@
 + figure out if it is fundamentally value-creating or value-destroying
 
 + winning culture
+
+## Misc
++ blockbuster movie
++ the idea blossomed into ...
++ renaissance
++ shoot in the dark
++ most decisions startups face are not clear-cut.
++ product release incurs overhead
++ cede market leadership to a fast follower
