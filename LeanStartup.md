@@ -36,6 +36,12 @@
 + winning culture
 
 ## Misc
++ make/miss the quarter 
++ put the product in the very best light
++ act on big things
++ I made an investment decision that I have regretted ever since.
++ hear his pitch
++ When funding new products, a good rule of thumb is that the new product must be **at least 10 times better than the old way** of doing the same thing or customers will stay with what they have. 
 + bring deep experience in developing winning strategies
 + manage and grow unique product offerings
 + He will be a great asset
