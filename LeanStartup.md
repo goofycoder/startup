@@ -36,6 +36,16 @@
 + winning culture
 
 ## Misc
++ bring deep experience in developing winning strategies
++ manage and grow unique product offerings
++ He will be a great asset
++ unify the corporate strategy, business development and product into a more cohesive force
++ oversee a number of key growth areas
++ lead the transition to ..., helping it achieve tremendous growth
++ I'm very grateful for your help
++ add additional value to our customers
++ selflessly make this happen
++ thank you from the bottom of my heart
 + blockbuster movie
 + the idea blossomed into ...
 + renaissance
