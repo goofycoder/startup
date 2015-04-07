@@ -58,5 +58,11 @@
 + renaissance
 + shoot in the dark
 + most decisions startups face are not clear-cut.
-+ product release incurs overhead
++ product release incurs overhead ?
 + cede market leadership to a fast follower
+
+## startup advice
++ People don't steal ideas. Tell as many people as possible. Never ask someone to sign an NDA before hearing your idea, you'll instantly lose all credibility
++ Do one thing at a time and do it really well. Find a way to block out interruptions
++ Trust your gut
++ Has it lived up to your expectations?
