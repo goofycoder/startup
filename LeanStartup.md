@@ -37,6 +37,7 @@
 
 ## Misc
 + make/miss the quarter 
++ Just wanted another set of eyes
 + put the product in the very best light
 + act on big things
 + I made an investment decision that I have regretted ever since.
