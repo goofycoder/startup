@@ -61,9 +61,55 @@
 + product release incurs overhead ?
 + cede market leadership to a fast follower
 + this solution feels less kludgy
++ Marketing is storytelling
++ Incredibly kind
++ It opens a lot of doors
++ Enjoybale experience
++ Impactful outcomes
++ You are stingy
++ We brought openstack to the world
++ Branding
+	- Unique brand
+	- Build brand value
+	- Everybody is a brand builder
++ Gracious
++ Diaper daddy
++ PR: Shaping our story externally
+
+
+
+
+Largest Customer: EA
+
+$580K Monthly
+
+
++ Flawless execution
++ Let me keep rolling
++ worth every penny
++ time is up!
++ Send off alarm
++ Major shareholders
++ Success for company has two components
+	+ Growth
+	+ Profitable growth
++ Net income = revenue - expense
++ Net income margin = profit / revenue
++ Capital efficiency:
+ - ROC (Return On Captical)
++ Recurring revenue
++ Very well said
++ Level the playfield
++ Sticky situation
++ Get plugged in
++ Yardstick
++ Thanks for jumping on that so quickly!
++ It does play to my strength
++ Has it lived up to your expectations?
 
 ## startup advice
 + People don't steal ideas. Tell as many people as possible. Never ask someone to sign an NDA before hearing your idea, you'll instantly lose all credibility
 + Do one thing at a time and do it really well. Find a way to block out interruptions
 + Trust your gut
-+ Has it lived up to your expectations?
++ Older customer is more profitable
+	- Support cost goes down
