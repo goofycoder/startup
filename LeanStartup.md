@@ -60,6 +60,7 @@
 + most decisions startups face are not clear-cut.
 + product release incurs overhead ?
 + cede market leadership to a fast follower
++ this solution feels less kludgy
 
 ## startup advice
 + People don't steal ideas. Tell as many people as possible. Never ask someone to sign an NDA before hearing your idea, you'll instantly lose all credibility
