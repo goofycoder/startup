@@ -75,15 +75,6 @@
 + Gracious
 + Diaper daddy
 + PR: Shaping our story externally
-
-
-
-
-Largest Customer: EA
-
-$580K Monthly
-
-
 + Flawless execution
 + Let me keep rolling
 + worth every penny
