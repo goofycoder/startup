@@ -102,5 +102,7 @@
 + People don't steal ideas. Tell as many people as possible. Never ask someone to sign an NDA before hearing your idea, you'll instantly lose all credibility
 + Do one thing at a time and do it really well. Find a way to block out interruptions
 + Trust your gut
++ All he does is put his head down and get better.
++ It's always darkest before the dawn.
 + Older customer is more profitable
 	- Support cost goes down
