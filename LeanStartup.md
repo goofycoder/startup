@@ -1,3 +1,26 @@
+## Measure
+- Actionable metrics
+- peer-driven learning method
+- disciplined
+- establish a baseline
+- pre-order: smoke test to measure customers' interest
+	- sign-up and trial rates
+- commit resource to the product
+- customer life-time value
+- test the riskiest assumption first
+- mitigate the risk
+
+## Drivers of the company's growth model
+- The profitablility of each customer
+- The cost of acquiring new customers
+- The repeat purchase rate of existing customers
+
+## Triage
+- reinforce learning by teaching it to others
+- 
+
+
+
 ## Executive Summary
 + Build-Measure-Learn feedback loop
 + **Articulate** a new way for startup to **gauge** if they are making progress
