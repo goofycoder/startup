@@ -1,14 +1,21 @@
 ## Measure
+
+- You can’t measure results if you don’t have a yardstick
+- achievement-oriented person
+- hockey stick graph
+    - ideal in the rapid-growth company
 - Actionable metrics
+- executing with disipline
 - peer-driven learning method
 - disciplined
 - establish a baseline
 - pre-order: smoke test to measure customers' interest
-	- sign-up and trial rates
+    - sign-up and trial rates
 - commit resource to the product
 - customer life-time value
 - test the riskiest assumption first
 - mitigate the risk
+- measure progress against a high bar
 
 ## Drivers of the company's growth model
 - The profitablility of each customer
