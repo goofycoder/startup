@@ -1,5 +1,11 @@
 ## Measure
 
+- MVP: Minimum Viable Product 
+- gauge the customer's reaction
+- measure the impact
+
+- If we are building something that nobody wants, it doesn't much matter if we're doing it on time and on budget.
+- assess the progress
 - You can’t measure results if you don’t have a yardstick
 - achievement-oriented person
 - hockey stick graph
@@ -30,6 +36,11 @@
 
 ## Executive Summary
 + Build-Measure-Learn feedback loop
+    - Core of Lean Startup model
+    - `Ideas` -> Build -> `Product` -> Measure -> `Data` -> Learn -> `Ideas`
++ rev the engine
+    - shift into higher gears
+
 + **Articulate** a new way for startup to **gauge** if they are making progress
 + market leadership
 + holde people accountable for learning
@@ -37,6 +48,7 @@
 + disruptive innovation
 + single-piece flow (the benefits of small batch)
   + Biggest advantage: ID quality problem much sooner
++ target early adoptors 
 
 ## Vision
 
