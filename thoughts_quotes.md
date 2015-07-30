@@ -2,4 +2,13 @@
 - Money is not wealth. It's just something we use to move wealth around. 
 - Everyone in a company works together to create wealth, in the sense of making more things people want.
 - When an idea is described as crazy, it's a compliment 
+- Execution can break down to two questions: Q1. Can I figure out what to do, Q2. Can I get it done. 
+- The best predictor of success of a startup is that everytime you talk to the founder, they get new things done.
+- Move fast and break things
+- Keep foot on the gas pedal, always keep momentum; avod momentum sag
+- Set the operating rhythm
+- obsession with the quality; set the quality bar
+- outwork your competitors; work hard on right things
+- Focus and intensity
+- 100 things compete your attention everyday
 
