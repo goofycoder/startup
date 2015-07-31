@@ -11,4 +11,5 @@
 - outwork your competitors; work hard on right things
 - Focus and intensity
 - 100 things compete your attention everyday
+- startup is awesome
 
