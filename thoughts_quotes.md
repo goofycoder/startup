@@ -17,3 +17,6 @@
 - …some small segment of founders are truly artists—they see something no one else does. **These entrepreneurs are the ones who want to change ‘what is’ and turn it into ‘what can be.’** These founders create new ideas and new markets by pushing the boundaries. (Steve Blank)
 - **Revolutions are not obvious when they happen. When James Watt started the industrial revolution with the steam engine in 1775 no one said, ‘Today, everything changes.’ When Karl Benz drove around Mannheim in 1885, no one said, ‘There will be 500 million of these driving around in a century.’** And certainly in 1958 when Noyce and Kilby invented the integrated circuit, the idea of a quintillion (10 to the 18th power) transistors being produced each year seemed ludicrous. (Steve Blank)
 - In a startup, no business plan survives first contact with customers. (Steve Blank)
+- We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about. (Einstein)
+- We're even wrong about which mistakes we're making. (Carl Winfeld)
+- Focusing is about saying no. (Steve Jobs)
