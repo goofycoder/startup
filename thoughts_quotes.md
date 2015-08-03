@@ -11,4 +11,9 @@
 - outwork your competitors; work hard on right things
 - Focus and intensity
 - 100 things compete your attention everyday
-
+- Any product that needs a manual to work is broken. (Elon Musk)
+- The company that consistently makes and implements decisions rapidly gains a tremendous, often decisive, competitive advantage. (Steve Blank)
+- **What matters is having forward momentum and a tight fact-based data/metrics feedback loop to help you quickly recognize and reverse any incorrect decisions. That’s why startups are agile.** By the time a big company gets the committee to organize the subcommittee to pick a meeting date, your startup could have made 20 decisions, reversed five of them and implemented the fifteen that worked. (Steve Blank)
+- …some small segment of founders are truly artists—they see something no one else does. **These entrepreneurs are the ones who want to change ‘what is’ and turn it into ‘what can be.’** These founders create new ideas and new markets by pushing the boundaries. (Steve Blank)
+- **Revolutions are not obvious when they happen. When James Watt started the industrial revolution with the steam engine in 1775 no one said, ‘Today, everything changes.’ When Karl Benz drove around Mannheim in 1885, no one said, ‘There will be 500 million of these driving around in a century.’** And certainly in 1958 when Noyce and Kilby invented the integrated circuit, the idea of a quintillion (10 to the 18th power) transistors being produced each year seemed ludicrous. (Steve Blank)
+- In a startup, no business plan survives first contact with customers. (Steve Blank)
