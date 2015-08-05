@@ -1,4 +1,5 @@
 - What most businesses really do is make wealth. They do something people want.
+
 - Money is not wealth. It's just something we use to move wealth around. 
 - Everyone in a company works together to create wealth, in the sense of making more things people want.
 - When an idea is described as crazy, it's a compliment 
@@ -20,3 +21,9 @@
 - We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about. (Einstein)
 - We're even wrong about which mistakes we're making. (Carl Winfeld)
 - Focusing is about saying no. (Steve Jobs)
+- Determination is the single most important quality in a startup founder. Perseverance is important because in a startup nothing goes according to plan. Founders live day to day with a sense of uncertainty, isolation, and sometimes lack of progress. - People like the idea of innovation in the abstract, but when you present them with any specific innovation, they tend to reject it, because it doesn’t fit with what they already know.
+- People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their idea as they developed it. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
+- Starting a startup is a process of trial and error. What guided the founders through this process was their empathy for the users. They never lost sight of making things that people would want.
+- Successful startup founders typically get rich from the process, but the ones I interviewed weren’t in it just for the money. They had a lot of pride in craftsmanship. And they wanted to change the world. That’s why most have gone on to new projects that are just as ambitious. 
+- Often familiarity with something kills your excitement.
+- Startups are fascinatingly complicated.
