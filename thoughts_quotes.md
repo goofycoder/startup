@@ -1,21 +1,49 @@
+- Having to hit a growth number every week forces founders to **act**, and acting versus not acting is the high bit of succeeding.
+
+- The **narrow focus** makes it a sort of puzzle, and you're generally surprised how fast you can solve it
+
+- startups early on need frequent feedback from their users to tweak what they're doing
+
+- **The best thing to measure the growth rate of is revenue**. The next best, for startups that aren't charging initially, is **active users**. That's a reasonable proxy for revenue growth because whenever the startup does start trying to make money, their revenues will probably be a constant multiple of active users.
+
+- You can **use the target growth rate to make all your decisions for you**; anything that gets you the growth you need is ipso facto right. 
+
+- A good growth rate during YC is 5-7% a week. If you can hit 10% a week you're doing exceptionally well. If you can only manage 1%, it's a sign you haven't yet figured out what you're doing.
+
 - What most businesses really do is make wealth. They do something people want.
 
 - Money is not wealth. It's just something we use to move wealth around. 
+
 - Everyone in a company works together to create wealth, in the sense of making more things people want.
+
 - When an idea is described as crazy, it's a compliment 
+
 - Execution can break down to two questions: Q1. Can I figure out what to do, Q2. Can I get it done. 
+
 - The best predictor of success of a startup is that everytime you talk to the founder, they get new things done.
+
 - Move fast and break things
+
 - Keep foot on the gas pedal, always keep momentum; avod momentum sag
+
 - Set the operating rhythm
+
 - obsession with the quality; set the quality bar
+
 - outwork your competitors; work hard on right things
+
 - Focus and intensity
+
 - 100 things compete your attention everyday
+
 - Any product that needs a manual to work is broken. (Elon Musk)
-- The company that consistently makes and implements decisions rapidly gains a tremendous, often decisive, competitive advantage. (Steve Blank)
+
+- The company that **consistently makes and implements decisions rapidly** gains a tremendous, often decisive, competitive advantage. (Steve Blank)
+
 - **What matters is having forward momentum and a tight fact-based data/metrics feedback loop to help you quickly recognize and reverse any incorrect decisions. That’s why startups are agile.** By the time a big company gets the committee to organize the subcommittee to pick a meeting date, your startup could have made 20 decisions, reversed five of them and implemented the fifteen that worked. (Steve Blank)
+
 - …some small segment of founders are truly artists—they see something no one else does. **These entrepreneurs are the ones who want to change ‘what is’ and turn it into ‘what can be.’** These founders create new ideas and new markets by pushing the boundaries. (Steve Blank)
+
 - **Revolutions are not obvious when they happen. When James Watt started the industrial revolution with the steam engine in 1775 no one said, ‘Today, everything changes.’ When Karl Benz drove around Mannheim in 1885, no one said, ‘There will be 500 million of these driving around in a century.’** And certainly in 1958 when Noyce and Kilby invented the integrated circuit, the idea of a quintillion (10 to the 18th power) transistors being produced each year seemed ludicrous. (Steve Blank)
 - In a startup, no business plan survives first contact with customers. (Steve Blank)
 - We act as though comfort and luxury were the chief requirements of life, when all that we need to make us happy is something to be enthusiastic about. (Einstein)
