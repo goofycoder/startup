@@ -55,3 +55,7 @@
 - Successful startup founders typically get rich from the process, but the ones I interviewed weren’t in it just for the money. They had a lot of pride in craftsmanship. And they wanted to change the world. That’s why most have gone on to new projects that are just as ambitious. 
 - Often familiarity with something kills your excitement.
 - Startups are fascinatingly complicated.
+
+- profit center vs cost-center
+
+- there's not much of a market for ideas. No one trusts an idea till you embody it in a product and use that to grow a user base. Then they'll pay big time.
