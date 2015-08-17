@@ -30,7 +30,7 @@
 
 - Move fast and break things
 
-- Keep foot on the gas pedal, always keep momentum; avod momentum sag
+- Keep foot on the gas pedal, always keep momentum; avoid momentum sag
 
 - Set the operating rhythm
 
@@ -78,5 +78,11 @@
 - We're even wrong about which mistakes we're making. (Carl Winfeld)
 
 - Focusing is about saying no. (Steve Jobs)
+
+- You want to be extra rigorous about making the best possible thing you can. Find everything that’s wrong with it and fix it. Seek negative feedback, particularly from friends. (Elon Musk)
+
+- It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them. (Steve Jobs)
+
+- That’s been one of my mantras — focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains. (Steve Jobs)
 
 **[⬆ back to top](#table-of-contents)**
