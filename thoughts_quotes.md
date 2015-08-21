@@ -85,4 +85,6 @@
 
 - That’s been one of my mantras — focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains. (Steve Jobs)
 
+- You will badly regret the things you DIDN'T do far more than the things you did that were "wrong" -- the trip you didn't take; the project you kept putting off; the time you could have helped someone. If you get the chance - do it. You may never get the chance again.
+
 **[⬆ back to top](#table-of-contents)**
