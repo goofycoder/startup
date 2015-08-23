@@ -4,7 +4,14 @@
   1. [Quotes](#quotes)
 
 ## thoughts
+
+- rapid prototyping
+
+- overcome technical **hurdles**
+
 - iterative design over traditional “big design up front” development.
+
+- shows your investors great viral growth and a sticky user base
 
 - "Ask yourself how many bad ideas do you have every month, this helps you to answer the question that why you don't have good ideas."
 
