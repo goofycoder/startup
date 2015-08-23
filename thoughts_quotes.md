@@ -4,6 +4,9 @@
   1. [Quotes](#quotes)
 
 ## thoughts
+
+- "Ask yourself how many bad ideas do you have every month, this helps you to answer the question that why you don't have good ideas."
+
 - Having to hit a growth number every week forces founders to **act**, and acting versus not acting is the high bit of succeeding.
 
 - The **narrow focus** makes it a sort of puzzle, and you're generally surprised how fast you can solve it
@@ -68,9 +71,11 @@
 
 - “I could either watch it happen or be a part of it.” – Elon Musk
 
-
-
 - Any product that needs a manual to work is broken. (Elon Musk)
+
+- “If you don’t have peace, it isn’t because someone took it from you; you gave it away. You cannot always control what happens to you, but you can control what happens in you.” – John Maxwell
+
+- “The only guarantee for failure is to stop trying” – John Maxwell
 
 - The company that **consistently makes and implements decisions rapidly** gains a tremendous, often decisive, competitive advantage. (Steve Blank)
 
