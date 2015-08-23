@@ -4,6 +4,7 @@
   1. [Quotes](#quotes)
 
 ## thoughts
+- iterative design over traditional “big design up front” development.
 
 - "Ask yourself how many bad ideas do you have every month, this helps you to answer the question that why you don't have good ideas."
 
@@ -65,6 +66,8 @@
 **[⬆ back to top](#table-of-contents)**
 
 ## quotes
+
+- "Never underestimate the power of extra effort. It's not taught in school. It's not mentioned on resumes. But it's the one thing a candidate can offer to really **stand out**--and a powerful thing employers can look for to identify a great hire. **Make it your own little secret weapon.**"
 
 - "The only thing that matters is getting to product/market fit."
 	- Product/market fit means being in a good market with a product that can satisfy that market.
