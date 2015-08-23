@@ -57,9 +57,18 @@
 
 - Successful startup founders typically get rich from the process, but the ones I interviewed weren’t in it just for the money. They had a lot of pride in craftsmanship. And they wanted to change the world. That’s why most have gone on to new projects that are just as ambitious. 
 
+- Fast iteration is the key to success.
+
 **[⬆ back to top](#table-of-contents)**
 
 ## quotes
+
+- "The only thing that matters is getting to product/market fit."
+	- Product/market fit means being in a good market with a product that can satisfy that market.
+
+- “I could either watch it happen or be a part of it.” – Elon Musk
+
+
 
 - Any product that needs a manual to work is broken. (Elon Musk)
 
