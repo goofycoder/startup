@@ -5,6 +5,12 @@
 
 ## thoughts
 
+- I think the thing that's been most surprising to me is how one's perspective on time shifts. Working on our startup, I remember time seeming to stretch out, so that a month was a huge interval.
+
+- Build the absolute smallest thing that can be considered a complete application and ship it.
+
+- Now, when coding, I try to think "How can I write this such that if people saw my code, they'd be amazed at how little there is and how little it does?"
+
 - rapid prototyping
 
 - overcome technical **hurdles**
