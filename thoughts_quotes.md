@@ -5,6 +5,12 @@
 
 ## thoughts
 
+- What most businesses really do is make wealth. They do something people want.
+
+- Money is not wealth. It's just something we use to move wealth around. 
+
+- Everyone in a company works together to create wealth, in the sense of making more things people want.
+
 - I think the thing that's been most surprising to me is how one's perspective on time shifts. Working on our startup, I remember time seeming to stretch out, so that a month was a huge interval.
 
 - Build the absolute smallest thing that can be considered a complete application and ship it.
