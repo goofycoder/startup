@@ -29,10 +29,7 @@
 - The repeat purchase rate of existing customers
 
 ## Triage
-- reinforce learning by teaching it to others
-- 
-
-
++ reinforce learning by teaching it to others
 
 ## Executive Summary
 + Build-Measure-Learn feedback loop
