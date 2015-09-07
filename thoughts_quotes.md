@@ -85,6 +85,8 @@
 **[⬆ back to top](#table-of-contents)**
 
 ## quotes
+- "The best way to predict the future is to invent it." - Alan Kay
+
 -  "I'd say it's hard to do a really good job on anything you don't think about in the shower." - Paul Graham
 
 - "Never underestimate the power of extra effort. It's not taught in school. It's not mentioned on resumes. But it's the one thing a candidate can offer to really **stand out**--and a powerful thing employers can look for to identify a great hire. **Make it your own little secret weapon.**"
