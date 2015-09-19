@@ -1,28 +1,3 @@
-## Measure
-
-- MVP: Minimum Viable Product 
-- gauge the customer's reaction
-- measure the impact
-
-- If we are building something that nobody wants, it doesn't much matter if we're doing it on time and on budget.
-- assess the progress
-- You can’t measure results if you don’t have a yardstick
-- achievement-oriented person
-- hockey stick graph
-    - ideal in the rapid-growth company
-- Actionable metrics
-- executing with disipline
-- peer-driven learning method
-- disciplined
-- establish a baseline
-- pre-order: smoke test to measure customers' interest
-    - sign-up and trial rates
-- commit resource to the product
-- customer life-time value
-- test the riskiest assumption first
-- mitigate the risk
-- measure progress against a high bar
-
 ## Drivers of the company's growth model
 - The profitablility of each customer
 - The cost of acquiring new customers
@@ -46,13 +21,6 @@
 + single-piece flow (the benefits of small batch)
   + Biggest advantage: ID quality problem much sooner
 + target early adoptors 
-
-## Vision
-
-## Steer
-
-## Accelerate
-
 ## Triage
 
 + how to build sustainable business
